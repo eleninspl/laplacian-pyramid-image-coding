@@ -1,0 +1,8 @@
+# Libraries imported by the notebook.
+# Tested with Python 3.12, numpy 2.5.3, opencv-python-headless 5.0.0,
+# scipy 1.18.1, scikit-image 0.26.0 and matplotlib 3.11.2.
+numpy
+opencv-python
+scipy
+scikit-image
+matplotlib
